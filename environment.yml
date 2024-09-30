@@ -23,6 +23,7 @@ dependencies:
   - pyzstd
   - scipy
   - pip:
+    - powerlaw
     - catboost==1.2.3
     - dvc==3.38.1
     - dvc-s3==3.0.1
